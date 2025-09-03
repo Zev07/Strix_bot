@@ -2,9 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zev07/meu-template-inicial?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Zev07/meu-template-inicial?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Zev07/meu-template-inicial?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Zev07/meu-template-inicial?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Zev07/meu-template-inicial?style=for-the-badge)
 
 ### Sobre o projeto
 > Aqui nesse projeto foi meu primeiro bot em python criado para o discord, o motivo principal da criação foi para testar conhecimentos e por hobby, o bot foi criado com apenas um intuito, ser capaz de reprodudiz músicas em tempo real no canal de voz do discord.
